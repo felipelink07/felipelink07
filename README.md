@@ -1,4 +1,4 @@
-## Hi, Nice to see you!
+## Hi, nice to see you!
 
 My name is **Felipe Felix**. I'm Designer and front-end developer working as a web designer since 2020.
 
