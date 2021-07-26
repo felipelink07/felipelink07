@@ -3,6 +3,7 @@
 My name is **Felipe Felix**. I'm Designer and front-end developer working as a web designer since 2020.
 
 📌Living on Santos- Brazil
+
 🎮 Like to: Play The legend of Zelda and drawing
 
 Feel free to check my work and call me for a talk 🙂
