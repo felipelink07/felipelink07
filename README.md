@@ -12,4 +12,4 @@ Contact me👇
 
 [![image](https://img.shields.io/badge/LinkedIn-635DFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefelixdesigner) 
 [![image](https://img.shields.io/badge/Gmail-635DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefelixsantos07@gmail.com)
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55139981545657)
+[![image](https://img.shields.io/badge/WhatsApp-635DFF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55139981545657)
