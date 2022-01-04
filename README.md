@@ -4,7 +4,7 @@ My name is **Felipe Felix**. I'm Designer and front-end developer.
 
 📌Living in São Vicente - Brazil
 
-🎮 On free time I like play The legend of Zelda and drawing
+🎮 On free time I like play The legend of Zelda and draw
 
 Feel free to check my work and call me for a talk 🙂
 
